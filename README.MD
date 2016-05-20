@@ -1,3 +1,5 @@
+Simple Visual Studio Item Template/s. It's not a big deal
+
 1. Open Project
 2. Select File 
 3. On the File menu, click Export Template.
