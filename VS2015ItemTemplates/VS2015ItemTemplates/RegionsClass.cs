@@ -1,4 +1,4 @@
-﻿namespace VS2015ItemTemplates
+﻿namespace $safeprojectname$
 {
     public class RegionsClass
     {
